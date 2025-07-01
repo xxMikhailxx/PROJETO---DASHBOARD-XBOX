@@ -3,10 +3,10 @@
 
 ## 🎯 Objetivo
 
-O objetivo deste projeto foi criar um **dashboard de vendas em Excel**, com foco na **organização e visualização de dados**.  
+O objetivo deste projeto foi criar um **dashboard de subscriptions da xbox em Excel**, com foco na **organização e visualização de dados**.  
 A proposta é transformar dados brutos em **informações visuais claras e úteis**, permitindo uma análise eficaz do desempenho de assinaturas da plataforma **XBOX CLOUD**.
 
-## 📚 Projeto DIO - Dashboard de Vendas com Excel
+## 📚 Projeto DIO - Dashboard de Subscriptions da XBOX com Excel
 
 Este projeto foi desenvolvido como parte do curso **"Santander - Excel com Inteligência Artificial"** da DIO.
 
